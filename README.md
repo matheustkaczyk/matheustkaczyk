@@ -1,6 +1,6 @@
 <h1 align="center"> Seja muito bem vindo!</h1>
-<h2>Me chamo</h2>
-<h2>Matheus Tkaczyk Ribeiro</h2>
+<h2 align="center">Me chamo
+Matheus Tkaczyk Ribeiro</h2>
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
