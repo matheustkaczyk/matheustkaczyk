@@ -1,10 +1,9 @@
 <h1 align="center"> Seja muito bem vindo!</h1>
-<h2 align="center">Me chamo
-Matheus Tkaczyk Ribeiro</h2>
+<h2 align="center">Meu nome é Matheus Tkaczyk Ribeiro</h2>
 
 <h3 align="left">Sobre:</h3>
 <p align="left">
-
+Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde o ano de 2020, atualmente estou estudando desenvolvimento de software na Trybe!
 </p>
 
 <h3 align="left">Entre em contato:</h3>
@@ -42,18 +41,3 @@ Matheus Tkaczyk Ribeiro</h2>
 <p><img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats.vercel.app/api/top-langs?username=matheustkaczyk&show_icons=true&locale=en&layout=compact" alt="matheustkaczyk" /></p>
 
 <p>&nbsp;<img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats.vercel.app/api?username=matheustkaczyk&show_icons=true&locale=en" alt="matheustkaczyk" /></p>
-
-<!--
-**matheustkaczyk/matheustkaczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
