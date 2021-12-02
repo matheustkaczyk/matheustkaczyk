@@ -39,9 +39,9 @@ Matheus Tkaczyk Ribeiro</h2>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
 </p>
 
-<p><img align="center" margin-top:'10' src="https://github-readme-stats.vercel.app/api/top-langs?username=matheustkaczyk&show_icons=true&locale=en&layout=compact" alt="matheustkaczyk" /></p>
+<p><img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats.vercel.app/api/top-langs?username=matheustkaczyk&show_icons=true&locale=en&layout=compact" alt="matheustkaczyk" /></p>
 
-<p>&nbsp;<img align="center" margin-top:'10' src="https://github-readme-stats.vercel.app/api?username=matheustkaczyk&show_icons=true&locale=en" alt="matheustkaczyk" /></p>
+<p>&nbsp;<img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats.vercel.app/api?username=matheustkaczyk&show_icons=true&locale=en" alt="matheustkaczyk" /></p>
 
 <!--
 **matheustkaczyk/matheustkaczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
