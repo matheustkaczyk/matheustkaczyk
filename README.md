@@ -4,7 +4,7 @@
 <p align="left">
 Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde o ano de 2020, atualmente estou estudando desenvolvimento de software na Trybe!
 </p>
-<img align="center" src=https://twitter.com/SpaceCatPics/status/1153654129224507392" width="384" height="480" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/embed/VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
+<iframe align="center" src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
