@@ -1,5 +1,4 @@
-<h1 align="center"> Seja muito bem vindo!</h1>
-<h2 align="center">Meu nome é Matheus Tkaczyk Ribeiro</h2>
+<h1 align="center"> Seja muito bem vindo, meu nome é Matheus Tkaczyk Ribeiro</h1>
 
 <h3 align="left">Sobre:</h3>
 <p align="left">
