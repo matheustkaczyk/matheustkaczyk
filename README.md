@@ -4,7 +4,7 @@
 <p align="left">
 Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde o ano de 2020, atualmente estou estudando desenvolvimento de software na Trybe!
 </p>
-<img src="https://twitter.com/SpaceCatPics/status/1153654129224507392"></img>
+<img src="https://twitter.com/SpaceCatPics/status/1153654129224507392.gif"></img>
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
