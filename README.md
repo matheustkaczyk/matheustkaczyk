@@ -5,9 +5,11 @@
 Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde o ano de 2020, atualmente estou estudando desenvolvimento de software na Trybe!
 </p>
 
+<div display:"flex" justify-content:"center">
 <p><img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats.vercel.app/api/top-langs?username=matheustkaczyk&show_icons=true&locale=en&layout=compact" alt="matheustkaczyk" /></p>
 
 <p>&nbsp;<img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats.vercel.app/api?username=matheustkaczyk&show_icons=true&locale=en" alt="matheustkaczyk" /></p>
+</div>
 
 <p align="left">
 <a href="https://linkedin.com/in/matheustkaczykribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheustkaczykribeiro" height="30" width="40" /></a>
