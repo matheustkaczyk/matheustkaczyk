@@ -16,7 +16,7 @@ Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde 
 <a href="https://linkedin.com/in/matheustkaczykribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheustkaczykribeiro" height="30" width="40" /></a>
 </p>
 <p>
-  <a href="https://wa.link/4dkaii" target="blank"><img src="https://midiatix.com.br/wp-content/uploads/2021/06/%E2%80%94Pngtree%E2%80%94whatsapp-social-media-icon-design_3654797.png" alt="whatsapp icon" height="30" width="40"/></a>
+  <a href="https://wa.link/4dkaii" target="blank"><img src="https://logodownload.org/whatsapp-logo/whatsapp-logo-5/" alt="whatsapp icon"/></a>
 </p>
 </div>
 
