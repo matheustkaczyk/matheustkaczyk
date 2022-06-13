@@ -11,7 +11,7 @@ Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde 
 <p>&nbsp;<img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats.vercel.app/api?username=matheustkaczyk&show_icons=true&locale=en" alt="matheustkaczyk" /></p>
 
 <h3>Contato:</h3>
-<div dir="auto">
+<div display="flex" flex-direction="row">
 <p>
 <a href="https://linkedin.com/in/matheustkaczykribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheustkaczykribeiro" height="30" width="40" /></a>
 </p>
