@@ -3,7 +3,7 @@
 <h3 align="left">Sobre:</h3>
 
 <p align="left">
-Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde o ano de 2020, atualmente terminei o curso de desenvolvimento de software na Trybe!
+Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde o ano de 2020, atualmente terminei o curso de desenvolvimento de software na Trybe e estou cursando Ciência da Computação na Estácio!
 </p>
 
 <p><img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats.vercel.app/api/top-langs?username=matheustkaczyk&show_icons=true&locale=en&layout=compact" alt="matheustkaczyk" /></p>
