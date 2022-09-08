@@ -2,7 +2,7 @@
 
 <h3 align="left">Sobre:</h3>
 
-<p align="left">
+<p text-align="center">
 Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde o ano de 2020, atualmente terminei o curso de desenvolvimento de software na Trybe e estou cursando Ciência da Computação na Estácio!
 </p>
 
