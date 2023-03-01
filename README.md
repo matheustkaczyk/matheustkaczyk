@@ -5,6 +5,9 @@
 <p text-align="center">
 Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde o ano de 2020, atualmente terminei o curso de desenvolvimento de software na Trybe e estou cursando Ciência da Computação na Estácio!
 </p>
+<p>
+  Adoro construir projetinhos de automação, principalmente para resolver problemas que tomam muito do meu tempo =)
+</p>
 
 <p><img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=matheustkaczyk&show_icons=true&locale=en&layout=compact" alt="matheustkaczyk" /></p>
 
