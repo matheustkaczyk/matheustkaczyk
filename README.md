@@ -11,7 +11,7 @@ Sou completamente apaixonado em tecnologia e estou de cabeça nos estudos desde 
 
 <p><img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=matheustkaczyk&show_icons=true&locale=en&layout=compact" alt="matheustkaczyk" /></p>
 
-<p>&nbsp;<img align="center" margin-left:'30' margin-top:'10' src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheustkaczyk&show_icons=true&locale=en" alt="matheustkaczyk" /></p>
+<p>&nbsp;<img align="center" margin-left:'30' margin-top:'10' background-color:"black" color: "white" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheustkaczyk&show_icons=true&locale=en" alt="matheustkaczyk" /></p>
 
 <h3>Contato:</h3>
 <p align="left">
