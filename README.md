@@ -9,8 +9,14 @@
 ## Sobre
 
 <p>
-  Olá, sou Matheus! Desde 2020 venho me dedicando aos estudos na área de tecnologia. Concluí o curso de Desenvolvimento de Software na Trybe e atualmente estou cursando Ciência da Computação na Estácio. Sou apaixonado por programação e adoro construir projetos de automação para resolver problemas do meu dia a dia.
+  Olá, meu nome é Matheus e desde 2020 tenho me dedicado aos estudos na área de tecnologia.<br>
+  Desde que comecei a me aventurar no mundo da programação, descobri uma paixão que me faz querer aprender cada vez mais.<br>
+  Me formei no curso de Desenvolvimento de Software na Trybe e atualmente estou cursando Ciência da Computação na Estácio.<br>
+  Ao longo dessa jornada, tive a oportunidade de construir diversos projetos, na área do desenvolvimento web,
+  nos meus estudos por conta própria me fez desenvolver projetos de automação o que me proporcionou experiências valiosas para solucionar problemas do meu dia a dia e aprimorar minhas habilidades técnicas.<br>
+  Acredito que sempre há algo novo a ser descoberto no mundo da tecnologia e estou sempre em busca de novos desafios para aprender e evoluir profissionalmente.
 </p>
+
 
 ## Tecnologias
 
